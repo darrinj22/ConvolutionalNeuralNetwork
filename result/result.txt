@@ -1,0 +1,4 @@
+Area = 524.552
+Number of Cycles = 1 
+Clock Period = 3.9 
+Performance = 524.552 * 1 * 3.9 = 2045.7528
