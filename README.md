@@ -1,2 +1,2 @@
-# CarelessWISPer
-Wireless Electronic Shopping Label 
+# Verilog Convolutional Neural Network
+
